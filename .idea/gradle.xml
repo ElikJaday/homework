@@ -12,6 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/user_deatail_screen_impl" />
+            <option value="$PROJECT_DIR$/user_detail_screen_api" />
+            <option value="$PROJECT_DIR$/user_search_list_api" />
+            <option value="$PROJECT_DIR$/user_search_list_impl" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

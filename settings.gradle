@@ -1,2 +1,7 @@
+include ':user_deatail_screen_impl'
+include ':user_detail_screen_api'
+include ':user_search_list_impl'
+include ':user_search_list_api'
+include ':core'
 include ':app'
 rootProject.name = "HomeWorkForCinemood"
